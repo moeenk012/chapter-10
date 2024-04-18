@@ -1,0 +1,11 @@
+/*
+Applying styles to the first child of the list */
+ul li:first-child {
+    color: red;
+  }
+  
+  /*
+  Applying styles to the third child of the list */
+  ul li:nth-child(3) {
+    color: blue;
+  }
